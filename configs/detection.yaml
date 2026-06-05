@@ -1,0 +1,12 @@
+model: yolov8n.pt
+
+data: data/detection/data.yaml
+
+epochs: 40
+imgsz: 640
+batch: 16
+
+project: outputs/detection
+name: forensic_multiclass
+
+device: 0
