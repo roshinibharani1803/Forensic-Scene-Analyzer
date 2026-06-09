@@ -1,8 +1,7 @@
 ultralytics
-torch
-torchvision
 opencv-python
 numpy
 pyyaml
 pillow
 matplotlib
+pandas
