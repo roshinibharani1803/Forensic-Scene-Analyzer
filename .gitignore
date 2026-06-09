@@ -1,0 +1,10 @@
+raw_datasets/
+raw_segmentation_datasets/
+data/
+outputs/
+models/
+*.pt
+temp_detection/
+temp_segmentation/
+venv/
+__pycache__/

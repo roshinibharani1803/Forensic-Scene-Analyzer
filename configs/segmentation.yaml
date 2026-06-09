@@ -1,0 +1,12 @@
+model: yolov8n-seg.pt
+
+data: data/segmentation/data.yaml
+
+epochs: 40
+imgsz: 640
+batch: 16
+
+project: outputs
+name: forensic_segmentation
+
+device: 0

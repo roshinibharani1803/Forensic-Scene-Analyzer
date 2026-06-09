@@ -6,7 +6,7 @@ epochs: 40
 imgsz: 640
 batch: 16
 
-project: outputs/detection
+project: outputs
 name: forensic_multiclass
 
 device: 0
