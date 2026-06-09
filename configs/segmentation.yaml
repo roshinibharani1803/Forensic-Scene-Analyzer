@@ -9,4 +9,4 @@ batch: 16
 project: outputs
 name: forensic_segmentation
 
-device: 0
+device: cpu
