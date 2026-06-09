@@ -8,3 +8,5 @@ temp_detection/
 temp_segmentation/
 venv/
 __pycache__/
+build.log
+__pycache__/
